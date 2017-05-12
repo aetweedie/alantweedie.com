@@ -1,0 +1,49 @@
+.images img {
+  border: 3px solid #8DA1B9;
+  max-width: 90%;
+}
+
+.breck {
+  display: block;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 3%;
+}
+
+.boats {
+  display: block;
+  margin-left: 1%;
+  margin-top: 3%;
+}
+
+.singer {
+  display: block;
+  margin-top: 3%;
+  margin-left: 20%;
+}
+
+.redrocks {
+  display: block;
+  margin-left: 7%;
+  margin-top: 3%;
+}
+
+.neighborhood {
+  display: block;
+  margin-top: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.hunting {
+  display: block;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.office-sunset {
+  display: block;
+  margin: 0 auto;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
