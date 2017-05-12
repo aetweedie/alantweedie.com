@@ -3,8 +3,13 @@ html {
   background-color: #454545;
 }
 
-a {
+.nav a {
   text-decoration: none;
+  color: #6A706E;
+}
+
+.nav a:hover {
+  text-decoration: underline;
 }
 
 a:visited {
@@ -16,6 +21,10 @@ header {
   width: 100%;
   background-color: #8DA1B9;
   padding: 5px;
+}
+
+.initials {
+  text-decoration: none;
 }
 
 .links {

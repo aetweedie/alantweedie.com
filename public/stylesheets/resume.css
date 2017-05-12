@@ -8,6 +8,14 @@
   margin-top: 3%;
   vertical-align: middle;
   padding: 15px;
+  color: #F2F7F2;
+  text-decoration: none;
+}
+
+.open-pdf:hover {
+  -moz-transform: scale(1.01);
+  -webkit-transform: scale(1.01);
+  transform: scale(1.01);
 }
 
 .open-pdf:visited {
