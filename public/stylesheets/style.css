@@ -3,6 +3,14 @@ html {
   background-color: #454545;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6A706E;
+}
+
 header {
   height: 60px;
   width: 100%;
@@ -10,28 +18,47 @@ header {
   padding: 5px;
 }
 
-.initials {
-  color: #F2F7F2;
-  font-size: 60px;
-  width: 60px;
+.links {
+  color: #6A706E;
 }
 
-.menu {
+.links .initials {
+  font-size: 4em;
+  color: #F2F7F2;
+}
+
+.nav {
+  margin-left: 120px;
+  margin-top: -40px;
+  font-size: 20px;
+}
+
+.nav a {
+  margin-left: 20px;
+}
+
+.social {
   float: right;
   font-size: 50px;
   margin-right: 5%;
-  margin-top: -57px;
+  margin-top: -40px
 }
 
-.menu i {
+.social i {
   color: #6A706E;
+}
+
+.social i:hover{
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .typing {
   margin-left: 5px;
   margin-top: 10%;
   height: 10%;
-  margin-bottom: 4%;
+  margin-bottom: 7%;
 }
 
 .typed {
