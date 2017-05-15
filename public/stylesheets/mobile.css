@@ -23,7 +23,7 @@
     margin-top: -85px;
   }
   .open-pdf {
-    margin-top: 7%;
+    margin-top: 10%;
   }
   .typed {
     display: inline-block;
@@ -36,5 +36,11 @@
     margin-top: 10%;
     height: 20%;
     margin-bottom: 7%;
+  }
+  .dronie {
+    margin-top: 10%;
+  }
+  .job li {
+    margin-left: 5%;
   }
 }
